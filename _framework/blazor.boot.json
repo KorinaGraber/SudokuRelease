@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Sudoku",
   "resources": {
-    "hash": "sha256-BxyH1eUDfzj9bhgk+pEAwX3x5++FbnokCFj1z/Y7rq8=",
+    "hash": "sha256-z4kM0Fqwu2SRYlDj2iwgMp1Vsu6UCjnd2xeIMG5XxqA=",
     "jsModuleNative": {
       "dotnet.native.8.0.10.ahi2l5ariy.js": "sha256-FWE08dRA/APXlSTclctffF9nmrGnMzyoamCuPXmuxdA="
     },
@@ -31,7 +31,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-6187ynEahDlSLMBvD4vAmiLpZ3clRb5xu6rM7O8AxNo=",
       "Microsoft.JSInterop.wasm": "sha256-YAuov+N9Jt7hvJRt9QsxNvhTGrzE64Y3sfAZ6hP1Z/A=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-sLSiCKh0RQEV/2cl05tr7wOLWzExQfPZovvpqYLJduQ=",
-      "Sudoku.wasm": "sha256-4oNqa2p5BnuaceMBZ6SPSFg5GgKZCk7v+yBacbqhhhA=",
+      "Sudoku.wasm": "sha256-OROWi1K1TNTxfzGIHE6UvHkWhwXs9R4SRJ/qju40a+M=",
       "System.Collections.Concurrent.wasm": "sha256-HjG8Quz/H7VhBcp64B362d3crlIBPSFXX6u5O12DrhM=",
       "System.Collections.wasm": "sha256-ECgzHxyb1OX+H12QedhUiW9OEch4gdZ92qGZLBk+o28=",
       "System.ComponentModel.wasm": "sha256-i7oMzbElBaNMckR3MYozYJPnC1EgxdAH5/PHd1zevvU=",
