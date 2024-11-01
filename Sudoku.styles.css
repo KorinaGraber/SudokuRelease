@@ -172,12 +172,20 @@ main[b-aa2zzlyc8p] {
     font-size: large;
 }
 
+.cell-action.large[b-t2m8qoaxus] {
+    width: 9em;
+}
+
 @media only screen and (max-width: 600px) {
     .cell-action[b-t2m8qoaxus] {
         height: 2em;
         width: 2em;
         line-height: 2em;
         font-size: medium;
+    }
+
+    .cell-action.large[b-t2m8qoaxus] {
+        width: 6em;
     }
 }
 /* /Pages/SudokuCell.razor.rz.scp.css */
@@ -204,6 +212,10 @@ main[b-aa2zzlyc8p] {
 }
 .cell.bottom[b-99qign27vo] {
     border-bottom: 0.15em solid;
+}
+
+.cell.complete[b-99qign27vo] {
+    background-color: lightgreen;
 }
 
 @media only screen and (max-width: 600px) {
